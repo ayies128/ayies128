@@ -1,35 +1,25 @@
-<!-- =============================================================
-       ayies128 — GitHub Profile README  🎉
-       テーマ: radical（ポップ＆にぎやか）/ 配色を変えたいときは
-       各 URL の theme=radical / color=F75C7E を差し替えてね
-     ============================================================= -->
+<!-- ayies128 — GitHub Profile README
+     配色テーマを変えたいときは各 URL の theme=tokyonight を
+     github_dark / dark / transparent などに差し替えてください -->
 
-<h1 align="center">✨🎉 ようこそ！ようこそ！ 🎉✨</h1>
+<h1 align="center">ayies128</h1>
 
 <p align="center">
-  <a href="https://github.com/ayies128">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=800&color=F75C7E&center=true&vCenter=true&width=620&height=70&lines=Hi%20%F0%9F%91%8B%20I%27m%20ayies128;Full-Stack%20Engineer%20%F0%9F%92%BB;EC%E5%88%86%E6%9E%90%E3%83%84%E3%83%BC%E3%83%AB%E4%BD%9C%E3%81%A3%E3%81%A6%E3%81%BE%E3%81%99%20%F0%9F%9B%92;TypeScript%20%26%20Rails%20%E3%81%8C%E7%9B%B8%E6%A3%92%20%E2%9C%A8" alt="typing animation" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ayies128&label=Profile%20Views&color=F75C7E&style=flat-square" alt="profile views" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&height=50&lines=Full-Stack+Engineer;Next.js+%2F+Rails+%2F+AWS;Building+tools+for+e-commerce+sellers" alt="Full-Stack Engineer / Next.js / Rails / AWS" />
 </p>
 
 ---
 
-## 🙋‍♂️ こんな人です
+## About
 
-- 🛒 EC 運営者向けの **データ分析・管理ツール** を作ってるフルスタックエンジニアです
-- 🗼 拠点は **渋谷**
-- 💻 フロントもバックもインフラも一通りやります（**Next.js / Rails / AWS**）
-- 🤝 毎日 **Amazon SP-API・広告 API** と格闘中
-- 📊 数字とキレイな UI にこだわるのが好き
-- 😆 絵文字いっぱい使っちゃうタイプ！
+EC 運営者向けの **データ分析・管理ツール** を開発しているフルスタックエンジニアです。
+フロントエンド・バックエンド・インフラまで一通り担当しています。
 
----
+- **拠点** — 渋谷
+- **専門** — Amazon SP-API / 広告 API 連携、売上・在庫・広告の可視化
+- **関心** — データ整合性、パフォーマンス、使いやすい UI
 
-## 🛠 技術スタック
+## Tech Stack
 
 <p align="center">
   <b>Languages</b><br/>
@@ -64,30 +54,14 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
----
-
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ayies128&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="github stats" />
-  <img height="170" src="https://streak-stats.demolab.com?user=ayies128&theme=radical&hide_border=true" alt="github streak" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ayies128&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="github stats" />
+  <img height="170" src="https://streak-stats.demolab.com?user=ayies128&theme=tokyonight&hide_border=true" alt="github streak" />
 </p>
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayies128&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="top languages" />
-</p>
-
----
-
-## 🏆 Trophy
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ayies128&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophy" />
-</p>
-
----
-
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <p align="center">
   <picture>
@@ -97,17 +71,10 @@
   </picture>
 </p>
 
----
+## Links
 
-## 🔗 Connect with me
-
-<!-- SNS リンク（不要な行は削除でOK） -->
 <p align="center">
-  <a href="https://x.com/ayies128"><img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://x.com/ayies128"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   <a href="https://zenn.dev/ayies128"><img src="https://img.shields.io/badge/Zenn-3EA8FF?style=for-the-badge&logo=zenn&logoColor=white" alt="Zenn" /></a>
   <a href="https://qiita.com/ayies128"><img src="https://img.shields.io/badge/Qiita-55C500?style=for-the-badge&logo=qiita&logoColor=white" alt="Qiita" /></a>
 </p>
-
----
-
-<p align="center"><i>見てくれてありがとう！ Thanks for stopping by 😄</i></p>
